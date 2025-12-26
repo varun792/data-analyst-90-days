@@ -1,0 +1,41 @@
+# What is Data Analytics?
+
+## 1. What is data analytics?
+a data analysts job is to define a problem , use the data and find a solution for the problem.
+
+## 2. Types of analysts
+
+### Data Analyst
+- Input: clean, organise and arrange data  
+- Output: raw data is changed into reports and dashboards. 
+- Tools: SQL, python, tableau, excel & etc.
+
+### Business Analyst
+- Input: read and analyse the data 
+- Output: find solution for the said problems using the data. 
+- Tools: SQL, MS, communication skills & etc.
+
+### BI Analyst
+- Input: helps present the data in visual format.
+- Output: visualised data is used to take actionable decision.
+- Tools: SQL, power bi & etc.
+
+## 3. What analysts do daily
+- gather data.   
+- clean the data.
+- analyse the data.
+- find patterns.
+- create reports and dashboards for actionable decision. 
+
+## 4. What analysts do NOT do
+- built software's.
+- coding 
+
+## 5. Hiring reality (India-focused)
+- its a competitive field.
+- need good skills.
+- local companies in India are not as data driven as global MNC's. 
+
+## 6. Why I am doing this
+- great salary
+- option to work remotely  

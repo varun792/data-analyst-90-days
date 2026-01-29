@@ -1,0 +1,23 @@
+# Excel Basics – Day 2
+
+## What a cell is
+- a cell is unit to enter values.
+
+## Difference between row and column
+- row run left to right, column run top to bottom.
+
+## What formatting changes
+-
+
+## What formatting does NOT change
+-
+
+## 5 shortcuts I learned
+- c+s+l
+- c+s+up
+- c+s+down
+- f2(edit mode)
+- c+v\c+c
+
+## One mistake beginners make in Excel
+- 
